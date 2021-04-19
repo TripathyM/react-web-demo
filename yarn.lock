@@ -1820,6 +1820,10 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
 
+autobind-decorator@^1.3.4:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/autobind-decorator/-/autobind-decorator-1.4.3.tgz#4c96ffa77b10622ede24f110f5dbbf56691417d1"
+
 autoprefixer@^9.6.1:
   version "9.7.4"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/autoprefixer/-/autoprefixer-9.7.4.tgz#f8bf3e06707d047f0641d87aee8cfb174b2a5378"
@@ -3778,8 +3782,8 @@ fb-watchman@^2.0.0:
     bser "2.1.1"
 
 figgy-pudding@^3.5.1:
-  version "3.5.1"
-  resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
 
 figures@^3.0.0:
   version "3.2.0"
@@ -7191,7 +7195,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.4"
 
-prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.5.8, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   dependencies:
@@ -7374,6 +7378,13 @@ react-dom@^16.13.0:
 react-error-overlay@^6.0.6:
   version "6.0.6"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/react-error-overlay/-/react-error-overlay-6.0.6.tgz#ac4d9dc4c1b5c536c2c312bf66aa2b09bfa384e2"
+
+react-input-range@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/react-input-range/-/react-input-range-1.3.0.tgz#f96d001631ab817417f1e26d8f9f9684b4827f59"
+  dependencies:
+    autobind-decorator "^1.3.4"
+    prop-types "^15.5.8"
 
 react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.0"
@@ -8214,8 +8225,8 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
   dependencies:
     figgy-pudding "^3.5.1"
 
