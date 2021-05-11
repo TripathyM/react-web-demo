@@ -1820,6 +1820,10 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
 
+autobind-decorator@^1.3.4:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/autobind-decorator/-/autobind-decorator-1.4.3.tgz#4c96ffa77b10622ede24f110f5dbbf56691417d1"
+
 autoprefixer@^9.6.1:
   version "9.7.4"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/autoprefixer/-/autoprefixer-9.7.4.tgz#f8bf3e06707d047f0641d87aee8cfb174b2a5378"
@@ -4258,8 +4262,8 @@ hmac-drbg@^1.0.0:
     minimalistic-crypto-utils "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -7191,7 +7195,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.4"
 
-prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.5.8, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   dependencies:
@@ -7374,6 +7378,13 @@ react-dom@^16.13.0:
 react-error-overlay@^6.0.6:
   version "6.0.6"
   resolved "https://artifactory.ops.babylontech.co.uk/artifactory/api/npm/babylon-virtual-npm/react-error-overlay/-/react-error-overlay-6.0.6.tgz#ac4d9dc4c1b5c536c2c312bf66aa2b09bfa384e2"
+
+react-input-range@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/react-input-range/-/react-input-range-1.3.0.tgz#f96d001631ab817417f1e26d8f9f9684b4827f59"
+  dependencies:
+    autobind-decorator "^1.3.4"
+    prop-types "^15.5.8"
 
 react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.0"
